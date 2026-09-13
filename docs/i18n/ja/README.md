@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **日本語 (ja)** | [すべての言語](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 このインストーラーは Linux サーバーで Orca を GUI なしの `systemd` サービスとして実行し、デスクトップまたはモバイルの Orca とペアリングします。
 
 ## クイックスタート

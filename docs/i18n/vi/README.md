@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **Tiếng Việt (vi)** | [Tất cả ngôn ngữ](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 Trình cài đặt này chạy Orca như một dịch vụ `systemd` không có giao diện đồ họa trên máy chủ Linux và ghép cặp với Orca trên máy tính hoặc di động.
 
 ## Bắt đầu nhanh

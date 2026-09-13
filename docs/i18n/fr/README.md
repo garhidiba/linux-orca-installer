@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **Français (fr)** | [Toutes les langues](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 Ce programme installe Orca comme service `systemd` sans interface graphique sur un serveur Linux et l’associe à Orca pour ordinateur ou mobile.
 
 ## Démarrage rapide

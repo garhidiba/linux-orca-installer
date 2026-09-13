@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **Deutsch (de)** | [Alle Sprachen](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 Dieses Installationsskript betreibt Orca als headless `systemd`-Dienst auf einem Linux-Server und koppelt ihn mit Desktop- oder Mobile-Orca.
 
 ## Schnellstart

@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **Українська (uk)** | [Усі мови](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 Цей інсталятор запускає Orca як службу `systemd` без графічного інтерфейсу на сервері Linux і виконує сполучення з Orca для комп’ютера або мобільного пристрою.
 
 ## Швидкий старт

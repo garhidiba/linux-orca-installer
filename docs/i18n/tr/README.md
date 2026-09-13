@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **Türkçe (tr)** | [Tüm diller](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 Bu kurucu, Orca’yı Linux sunucusunda grafik arayüz olmadan bir `systemd` hizmeti olarak çalıştırır ve masaüstü veya mobil Orca ile eşleştirir.
 
 ## Hızlı başlangıç

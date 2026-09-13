@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **ไทย (th)** | [ทุกภาษา](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 ตัวติดตั้งนี้รัน Orca เป็นบริการ `systemd` แบบไม่มี GUI บนเซิร์ฟเวอร์ Linux และจับคู่กับ Orca บนเดสก์ท็อปหรือมือถือ
 
 ## เริ่มต้นอย่างรวดเร็ว

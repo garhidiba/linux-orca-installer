@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **Nederlands (nl)** | [Alle talen](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 Dit installatieprogramma draait Orca als headless `systemd`-service op een Linux-server en koppelt het met desktop- of mobiele Orca.
 
 ## Snel beginnen

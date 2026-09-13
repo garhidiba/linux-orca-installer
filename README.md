@@ -2,6 +2,8 @@
 
 **English (en)** | [한국어 (ko)](docs/i18n/ko/README.md) | [All languages](docs/i18n/README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 Install and run Orca as a headless `systemd` service on a Linux server, then pair it with desktop or mobile Orca clients.
 
 The installer downloads the latest Orca AppImage, installs its Electron/GTK runtime dependencies, provides a virtual display for headless operation, and configures automatic service startup and updates.

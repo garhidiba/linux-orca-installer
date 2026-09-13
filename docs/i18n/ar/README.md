@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **العربية (ar)** | [كل اللغات](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 يشغّل هذا المثبِّت Orca كخدمة `systemd` على خادم Linux دون واجهة رسومية، ثم يقرنه بتطبيق Orca على سطح المكتب أو الهاتف.
 
 ## التثبيت السريع

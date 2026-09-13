@@ -2,6 +2,11 @@
 
 The English [root README](../../README.md) is the source document. Translations live in a directory named for their [BCP 47 language tag](https://www.rfc-editor.org/info/bcp47), so readers and contributors can find a language without relying on a platform-specific filename convention.
 
+## Official Orca links
+
+- [Official website](https://onorca.dev)
+- [Official GitHub repository](https://github.com/stablyai/orca)
+
 ## Available languages
 
 | Language | Tag | Document | Status |

@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **Bahasa Indonesia (id)** | [Semua bahasa](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 Pemasang ini menjalankan Orca sebagai layanan `systemd` tanpa antarmuka grafis pada server Linux, lalu memasangkannya dengan Orca desktop atau seluler.
 
 ## Mulai cepat

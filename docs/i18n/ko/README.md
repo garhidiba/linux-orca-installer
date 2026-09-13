@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **한국어 (ko)** | [다른 언어](../README.md)
 
+[Orca 공식 웹사이트](https://onorca.dev) · [공식 GitHub 저장소](https://github.com/stablyai/orca)
+
 ## 문서
 
 - [언어 선택 및 번역 가이드](../README.md)

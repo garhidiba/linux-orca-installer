@@ -4,6 +4,8 @@
 
 [English (en)](../../../README.md) | **繁體中文 (zh-Hant)** | [所有語言](../README.md)
 
+[Official Orca website](https://onorca.dev) · [Official GitHub repository](https://github.com/stablyai/orca)
+
 此安裝程式會在 Linux 伺服器上將 Orca 以無圖形介面的 `systemd` 服務執行，並與桌面版或行動版 Orca 配對。
 
 ## 快速開始
