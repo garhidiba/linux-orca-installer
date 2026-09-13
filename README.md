@@ -1,6 +1,6 @@
 # Orca Headless Linux Installer
 
-**English** | [한국어](README.ko.md)
+**English (en)** | [한국어 (ko)](docs/i18n/ko/README.md)
 
 Install and run Orca as a headless `systemd` service on a Linux server, then pair it with desktop or mobile Orca clients.
 
@@ -8,7 +8,8 @@ The installer downloads the latest Orca AppImage, installs its Electron/GTK runt
 
 ## Documentation
 
-- [Korean guide / 한국어 가이드](README.ko.md)
+- [Language versions and translation guide](docs/i18n/README.md)
+- [Korean guide / 한국어 가이드 (ko)](docs/i18n/ko/README.md)
 - [Quick start](#quick-start)
 - [Supported environments](#supported-environments)
 - [Dependencies](#dependencies)

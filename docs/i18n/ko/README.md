@@ -1,6 +1,13 @@
 # Orca Headless Linux Installer
 
-[English](README.md) | **한국어**
+<!-- i18n: locale=ko; source=README.md -->
+
+[English (en)](../../../README.md) | **한국어 (ko)**
+
+## 문서
+
+- [언어 선택 및 번역 가이드](../README.md)
+- [영문 원문 (en)](../../../README.md)
 
 화면이 없는 Linux 서버에서 Orca를 `systemd` 서비스로 실행하고, 데스크톱 또는 모바일 Orca와 페어링할 수 있게 해 주는 설치 스크립트입니다.
 
