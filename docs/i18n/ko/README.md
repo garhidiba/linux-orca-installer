@@ -2,7 +2,7 @@
 
 <!-- i18n: locale=ko; source=README.md -->
 
-[English (en)](../../../README.md) | **한국어 (ko)**
+[English (en)](../../../README.md) | **한국어 (ko)** | [다른 언어](../README.md)
 
 ## 문서
 

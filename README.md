@@ -1,6 +1,6 @@
 # Orca Headless Linux Installer
 
-**English (en)** | [한국어 (ko)](docs/i18n/ko/README.md)
+**English (en)** | [한국어 (ko)](docs/i18n/ko/README.md) | [All languages](docs/i18n/README.md)
 
 Install and run Orca as a headless `systemd` service on a Linux server, then pair it with desktop or mobile Orca clients.
 
